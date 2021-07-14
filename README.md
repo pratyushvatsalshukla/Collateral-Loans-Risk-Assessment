@@ -48,9 +48,11 @@
 - Port : http://localhost:9090/portal/login
 <br>
 Activity Page
-![WhatsApp Image 2021-07-14 at 10 16 45](https://user-images.githubusercontent.com/54927584/125572319-020df935-433a-4af1-9ec8-bdf807bd6fb0.jpeg)<br>
+![WhatsApp Image 2021-07-14 at 10 16 45](https://user-images.githubusercontent.com/54927584/125572319-020df935-433a-4af1-9ec8-bdf807bd6fb0.jpeg)
+<br>
 Admin Login Page
-![WhatsApp Image 2021-07-14 at 10 16 45 (1)](https://user-images.githubusercontent.com/54927584/125572348-5214b873-ab53-430b-8dcb-14f4d0966baf.jpeg)<br>
+![WhatsApp Image 2021-07-14 at 10 16 45 (1)](https://user-images.githubusercontent.com/54927584/125572348-5214b873-ab53-430b-8dcb-14f4d0966baf.jpeg)
+<br>
 List of All Activities
 ![WhatsApp Image 2021-07-14 at 10 16 45 (2)](https://user-images.githubusercontent.com/54927584/125572356-c5e54324-b9ac-4a6f-97b8-8e11776271b8.jpeg)<br>
 Loan Applications
